@@ -3,6 +3,9 @@ Episodes Airflow built data pipeline that can download and store podcast episode
 Podcast Transcription Data Pipeline with Airflow
 This project demonstrates the creation of a data pipeline using Apache Airflow to download podcast episodes, transcribe them using speech recognition, and store the results in a SQLite database. The pipeline can be scheduled to run daily, and tasks are designed to run independently with error logs. Additionally, the project is designed for easy extension, allowing for the addition of speech recognition, summaries, and more using Airflow.
 
+🏥 Podcast-Transcription-Data-Pipeline Overview 📊
+![Podcast-Transcription-Data-Pipeline Overview](https://github.com/Abdullah28-gheyad/Podcast-Transcription-Data-Pipeline-with-Airflow/blob/master/airflow.jpg)
+
 **Table of Contents**
 -  Project Description
 -  Prerequisites
